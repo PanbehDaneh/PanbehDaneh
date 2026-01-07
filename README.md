@@ -1,6 +1,3 @@
-### 🚀 About Me
-
-<h3>👋 Hi, I'm Mojtaba PanbehDaneh</h3>
 <h3><strong>Front-End Developer</strong>  ·  Software Engineering Student</h3>
 
 - 🎓 Studying **Computer Software Engineering**
@@ -15,7 +12,7 @@
   <a href="https://www.linkedin.com/in/panbehdaneh/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
-    ||  
+    
   <a href="mailto:panbehdanehm@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
   </a>
