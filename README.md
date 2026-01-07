@@ -1,12 +1,14 @@
 <h2>👋 Hi, I'm Panbehdaneh</h2>
-<h3>Front-End Developer | Software Engineering Student</h3>
+<p><strong>Front-End Developer</strong> · Software Engineering Student</p>
 
 <p>
   <a href="https://www.linkedin.com/in/panbehdaneh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         height="28" style="margin-right:10px"/>
   </a>
   <a href="mailto:panbehdanehm@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         height="28"/>
   </a>
 </p>
 
