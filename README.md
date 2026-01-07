@@ -25,10 +25,10 @@
 
 ### 🤝 Let's Connect
 
-  <a href="https://www.linkedin.com/in/panbehdaneh/" target="_blank">
+  <a href="https://www.linkedin.com/in/panbehdaneh/" target="_blank" style="color: inherit;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
     
-  <a href="mailto:panbehdanehm@gmail.com">
+  <a href="mailto:panbehdanehm@gmail.com" style="color: inherit;">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
   </a>
